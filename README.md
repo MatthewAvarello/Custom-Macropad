@@ -18,16 +18,16 @@ Two part Case is held by two m3 screws and heatset inserts
 * Rotary encoder outputs arrows, button is unbound.
 * OLED screen shows whether you are in Normal or function key mode
 ## BOM
-9x Cherry MX Switches
-9x DSA Keycaps
-2x M3x5x4 HeatSet Inserts
-2x M3x16mm Screws
-9x Through the hole 1N4148 Diodes
-1x 0.91" 128x32 OLED Screen
-1x EC11E Rotary Encoder
-1x XIAO RP2040
-1x The Case (3d Printed Top and Bottom)
-1x Soldering Iron (Unforunately do not have one)
+* 9x Cherry MX Switches
+* 9x DSA Keycaps
+* 2x M3x5x4 HeatSet Inserts
+* 2x M3x16mm Screws
+* 9x Through the hole 1N4148 Diodes
+* 1x 0.91" 128x32 OLED Screen
+* 1x EC11E Rotary Encoder
+* 1x XIAO RP2040
+* 1x The Case (3d Printed Top and Bottom)
+* 1x Soldering Iron (Unforunately do not have one)
 ## Room for Improvement
 Looking back I would have changed the following if I had more time.
 
