@@ -36,5 +36,5 @@ Looking back I would have changed the following if I had more time.
 * Made the wiring on the PCB more orderly instead of a jumbled mess 💀
 
 ## Random Other Notes
-CAD was definetely the hardest part for me, arguably took around 80% of the tital total time I spent on the project. However, it was a great learning experience!
+CAD was definetely the hardest part for me, arguably took around 80% of the total time I spent on the project. However, it was a great learning experience!
 
