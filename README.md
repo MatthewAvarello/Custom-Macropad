@@ -11,7 +11,7 @@ The 9 keys are positioned in a 3x3 matrix, saving 3 gpio pins for other use
 Two part Case is held by two m3 screws and heatset inserts
 ![CAD](images/Screenshot%202026-03-31%20211629.png)
 ![CAD](images/Screenshot%202026-03-31%20211648.png)
-![CAD](images/Screenshot%202026-03-31%20212509.png)
+![CAD](images/Screenshot%202026-04-04%20121243.png)
 ## Firmware:
 * Uses KMK Firmware to power the PCB
 * Keys act as a numberpad, unless 9 is held, in which the numbers turn into their respective function keys.
