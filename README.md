@@ -38,3 +38,6 @@ Looking back I would have changed the following if I had more time.
 ## Random Other Notes
 CAD was definetely the hardest part for me, arguably took around 80% of the total time I spent on the project. However, it was a great learning experience!
 
+## Gallery
+![Image of completed real life Macropad on a counter](images/Macropad.jpg)
+
